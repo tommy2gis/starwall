@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/starwall/static/css/main.deb30df0.chunk.css",
+    "main.js": "/starwall/static/js/main.2279c513.chunk.js",
+    "main.js.map": "/starwall/static/js/main.2279c513.chunk.js.map",
+    "runtime-main.js": "/starwall/static/js/runtime-main.0da8dac6.js",
+    "runtime-main.js.map": "/starwall/static/js/runtime-main.0da8dac6.js.map",
+    "static/js/2.85161826.chunk.js": "/starwall/static/js/2.85161826.chunk.js",
+    "static/js/2.85161826.chunk.js.map": "/starwall/static/js/2.85161826.chunk.js.map",
+    "index.html": "/starwall/index.html",
+    "static/css/main.deb30df0.chunk.css.map": "/starwall/static/css/main.deb30df0.chunk.css.map",
+    "static/js/2.85161826.chunk.js.LICENSE.txt": "/starwall/static/js/2.85161826.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/starwall/static/media/bg.f9c74903.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0da8dac6.js",
+    "static/js/2.85161826.chunk.js",
+    "static/css/main.deb30df0.chunk.css",
+    "static/js/main.2279c513.chunk.js"
+  ]
+}
