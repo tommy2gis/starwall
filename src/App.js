@@ -1,7 +1,7 @@
 /*
  * @Author: shitao
  * @Date: 2021-10-19 21:19:18
- * @LastEditTime: 2021-12-04 20:34:37
+ * @LastEditTime: 2021-12-04 21:06:22
  * @LastEditors: shitao
  * @Description:
  * @FilePath: \starwall\src\App.js
@@ -26,35 +26,35 @@ const textData = {
   title: "颜可达（掉刀小侍卫）",
 };
 let dataArray = [
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
-  { image: "./starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
+  { image: "/starwall/images/1.jpg" },
 ];
 dataArray = dataArray.map((item) => ({ ...item, ...textData }));
 class PicDetails extends React.Component {
